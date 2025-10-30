@@ -1,6 +1,12 @@
 {
   "name": "nextjs-ssr-demo",
   "version": "1.0.0",
+  "author": {
+    "name": "Sangwin Gawande",
+    "email": "imsangwin@gmail.com",
+    "website": "https://sangw.in",
+    "url": "https://github.com/sangwin"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
