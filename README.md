@@ -1,5 +1,12 @@
 # 🌍 Next.js SSR Demo
 
+
+> **Author:** Sangwin Gawande  
+> **GitHub:** [github.com/sangwin](https://github.com/sangwin)  
+> **WebSite:** [https://sangw.in](https://sangw.in)  
+> **Date:** 2025-10-30  
+> **License:** MIT  
+
 This is a simple **Next.js SSR demo app** showing how to make **server-side API calls** using `getServerSideProps`.
 
 ## 🚀 Features
